@@ -1,0 +1,8 @@
+{
+  "package_name": "msgsrc_interfaces",
+  "non_idl_tuples": [
+    "/home/nate/dev_ws/src/msgsrc_interfaces:msg/Path.msg",
+    "/home/nate/dev_ws/src/msgsrc_interfaces:srv/GetRoverStatus.srv",
+    "/home/nate/dev_ws/src/msgsrc_interfaces:srv/PreemptPath.srv"
+  ]
+}

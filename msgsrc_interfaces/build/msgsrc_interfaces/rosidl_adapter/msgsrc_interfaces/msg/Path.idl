@@ -1,0 +1,13 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from msgsrc_interfaces/msg/Path.msg
+// generated code does not contain a copyright notice
+
+#include "geometry_msgs/msg/Point.idl"
+
+module msgsrc_interfaces {
+  module msg {
+    struct Path {
+      sequence<geometry_msgs::msg::Point> path;
+    };
+  };
+};
