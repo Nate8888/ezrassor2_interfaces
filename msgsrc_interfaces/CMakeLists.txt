@@ -40,6 +40,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/Path.msg"
   "srv/GetRoverStatus.srv"
   "srv/PreemptPath.srv"
+  "srv/WaypointPath.srv"
   DEPENDENCIES geometry_msgs
 )
 
